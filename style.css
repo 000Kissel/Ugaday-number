@@ -1,0 +1,48 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-color: rgb(164, 222, 245);
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+.container {
+    display: inline-block;
+    background-color: rgb(76, 174, 240);
+    padding: 20px 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 3px;
+}
+
+.input {
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.color {
+    color: rgb(1, 97, 1);
+
+}
+
+.color1 {
+    color: rgb(180, 0, 0);
+}
+
+.msg {
+    font-size: 20px;
+    text-shadow: 0 0 gray;
+}
+
+.btn {
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 17px;
+    background-color: rgb(30, 30, 252);
+    color: white;
+}
